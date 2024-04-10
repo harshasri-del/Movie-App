@@ -1,0 +1,15 @@
+.nav-conatiner {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #474747;
+  color: white;
+}
+.search-input::placeholder {
+  color: darkgray;
+  opacity: 1;
+}
+
+.link-name{
+  text-decoration:none;
+}
